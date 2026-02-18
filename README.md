@@ -1,4 +1,4 @@
-#### Hi there! I'm Xin, an undergrad from the Australian National University.
+<!--#### Hi there! I'm Xin, an undergrad from the Australian National University.-->
 
 <!--
 [![Zlisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlisch&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
@@ -12,7 +12,7 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xinlu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 -->
 
-#### :art: My interactive new media art design demo:
+<!--#### :art: My interactive new media art design demo:
 
 [https://youtu.be/YpAS_Kv3w8w](https://youtu.be/YpAS_Kv3w8w)
 
